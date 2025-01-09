@@ -1,0 +1,226 @@
+report@config:load 35.43
+Authorized using stored user info.
+report@account:authorize 6.79
+stderr: 'rm' is not recognized as an internal or external command,
+operable program or batch file.
+
+Exporting assets from Unity.................
+
+[ Stage1 ] Assets exported from Unity and staged for further processing
+report@unity:export 14155.22
+report@config:load 15.29
+Using E:/Project/My project test/Assets/TextMesh Pro/Examples & Extras/Fonts/Anton.ttf file to generate an atlas for Anton[32330] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Using E:/Project/My project test/Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold.ttf file to generate an atlas for Oswald-Bold[32364] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Using E:/Project/My project test/Assets/TextMesh Pro/Fonts/LiberationSans.ttf file to generate an atlas for LiberationSans[29498] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Using E:/Project/My project test/Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers.ttf file to generate an atlas for Bangers[32340] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Using E:/Project/My project test/Assets/TextMesh Pro/Examples & Extras/Fonts/Electronic Highway Sign.TTF file to generate an atlas for Electronic Highway Sign[32354] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Using E:/Project/My project test/Assets/TextMesh Pro/Examples & Extras/Fonts/Roboto-Bold.ttf file to generate an atlas for Roboto-Bold[32370] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Using C:/Windows/Fonts/arial.ttf file to generate an atlas for LegacyRuntime[718] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+[ error ] $Failed to locate TTF file for the font named LegacyRuntime – falling back to Arial substitute.
+Using E:/Project/My project test/Library/PackageCache/com.unity.render-pipelines.core@14.0.11/Runtime/Debugging/Prefabs/Fonts/PerfectDOSVGA437.ttf file to generate an atlas for PerfectDOSVGA437[30990] font
+  Using alphabet  §1234567890-=qwertyuiop[]asdfghjkl;'\`zxcvbnm,./±!@#$%^&*()_+QWERTYUIOP{}ASDFGHJKL:"|~ZXCVBNM<>?
+Combined 97 glyphs into bitmap texture at E:/Project/My project test/LunaTemp/stage1/tmp/fonts/Electronic Highway Sign-32354/output_0.png (20kb)
+Combined 97 glyphs into bitmap texture at E:/Project/My project test/LunaTemp/stage1/tmp/fonts/Anton-32330/output_0.png (47kb)
+Combined 97 glyphs into bitmap texture at E:/Project/My project test/LunaTemp/stage1/tmp/fonts/PerfectDOSVGA437-30990/output_0.png (10kb)
+Combined 97 glyphs into bitmap texture at E:/Project/My project test/LunaTemp/stage1/tmp/fonts/LegacyRuntime-718/output_0.png (59kb)
+Combined 97 glyphs into bitmap texture at E:/Project/My project test/LunaTemp/stage1/tmp/fonts/LiberationSans-29498/output_0.png (56kb)
+Combined 97 glyphs into bitmap texture at E:/Project/My project test/LunaTemp/stage1/tmp/fonts/Bangers-32340/output_0.png (68kb)
+Combined 97 glyphs into bitmap texture at E:/Project/My project test/LunaTemp/stage1/tmp/fonts/Oswald-Bold-32364/output_0.png (51kb)
+Combined 97 glyphs into bitmap texture at E:/Project/My project test/LunaTemp/stage1/tmp/fonts/Roboto-Bold-32370/output_0.png (55kb)
+Found custom rules for texture Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  {"maxWidth":512,"maxHeight":512,"format":"png32","compression":"none","quality":65,"script":"","ext":"","name":"Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset","isOverride":true}
+Found custom rules for texture Assets/_ART/HA_ART/All/Popup/Top.png
+  {"maxWidth":512,"maxHeight":512,"format":"png24","compression":"quantQuality","quality":65,"script":"","ext":"","name":"Assets/_ART/HA_ART/All/Popup/Top.png","isOverride":true}
+Found custom rules for texture Assets/_ART/HA_ART/All/Popup/FrontxBack.png
+  {"maxWidth":512,"maxHeight":512,"format":"png24","compression":"quantQuality","quality":65,"script":"","ext":"","name":"Assets/_ART/HA_ART/All/Popup/FrontxBack.png","isOverride":true}
+Found custom rules for texture Assets/_ART/HA_ART/All/Popup/Bottom.png
+  {"maxWidth":512,"maxHeight":512,"format":"png24","compression":"crush","quality":65,"script":"","ext":"","name":"Assets/_ART/HA_ART/All/Popup/Bottom.png","isOverride":true}
+Resources:
+{}
+report@assets:stage2 10612.45
+report@assets:stage3 967.08
+[ Stage2 ] Assets postprocessed and bundled successfully
+report@config:unity 0.11
+report@config:load 26.84
+report@config:unity 0.08
+report@code:compose 262.25
+Authorized using stored user info.
+report@account:authorize 2.93
+MSBuild version 17.12.12+1cce77968 for .NET Framework
+
+Build started 09/01/2025 9:31:54 AM.
+
+
+
+Project "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" on node 1 (Rebuild target(s)).
+CoreClean:
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\JetBrains.dll".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\TextMeshPro.dll".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.AssemblyReference.cache".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.CoreCompileInputs.cache".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.Up2Date".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll".
+
+  Deleting file "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb".
+
+GenerateTargetFrameworkMonikerAttribute:
+Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+
+CoreCompile:
+  C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\Roslyn\csc.exe /noconfig /nowarn:CS0626,1701,1702 /fullpaths /nostdlib+ /errorreport:prompt /warn:4 /define:UNITY_LUNA;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_2022;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_2022_3;UNITY_2022_3_45 /highentropyva+ /reference:C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.42-luna\lib\net40\Bridge.dll /reference:C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll /reference:C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll /reference:C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\DOTween.1.2.705\lib\net40\DOTween.dll /reference:C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\com.unity.ide.rider\3.0.0\JetBrains.dll /reference:C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll /reference:C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll /reference:C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll /reference:C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll /reference:C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll /reference:C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\com.unity.textmeshpro\3.0.6\TextMeshPro.dll /reference:C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll /reference:C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll /reference:C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll /debug+ /debug:full /optimize- /out:obj\Debug\UnityScriptsCompiler.dll /subsystemversion:6.00 /target:library /warnaserror- /utf8output /langversion:8 "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\_Game\NamHp\CarRotate.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\_Game\NamHp\Example.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01_UGUI.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark01.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark02.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark03.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\Benchmark04.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\CameraController.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\ChatController.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\DropdownSample.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\EnvMapAnimator.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\ObjectSpin.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\ShaderPropAnimator.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\SimpleScript.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\SkewTextExample.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\TeleType.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scri
+pts\TextConsoleSimulator.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshProFloatingText.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\TextMeshSpawner.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_DigitValidator.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_ExampleScript_01.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_FrameRateCounter.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_PhoneNumberValidator.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventCheck.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextEventHandler.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextInfoDebugTool.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_A.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_TextSelector_B.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\TMP_UiFrameRateCounter.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\TMPro_InstructionOverlay.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexColorCycler.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexJitter.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeA.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexShakeB.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\VertexZoom.cs" "E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\TextMesh Pro\Examples & Extras\Scripts\WarpTextExample.cs" Properties/AssemblyInfo.cs Sources/OtherDummyScript.cs "obj\Debug\.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+
+E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\_Game\NamHp\CarRotate.cs(7,40): warning CS0649: Field 'CarRotate.carTrans' is never assigned to, and will always have its default value null [C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\_Game\NamHp\CarRotate.cs(8,40): warning CS0649: Field 'CarRotate.garageNewTrans' is never assigned to, and will always have its default value null [C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\_Game\NamHp\CarRotate.cs(16,21): warning CS0649: Field 'CarRotate._delta' is never assigned to, and will always have its default value [C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+  CompilerServer: server - server processed compilation - Scripts
+
+_CopyFilesMarkedCopyLocal:
+  Copying file from "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.42-luna\lib\net40\Bridge.dll" to "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.dll".
+
+  Copying file from "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.dll" to "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.dll".
+  Copying file from "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.dll" to "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.dll".
+  Copying file from "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.dll" to "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.dll".
+  Copying file from "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\DOTween.1.2.705\lib\net40\DOTween.dll" to "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\DOTween.dll".
+  Copying file from "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\com.unity.ide.rider\3.0.0\JetBrains.dll" to "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\JetBrains.dll".
+
+  Copying file from "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.dll" to "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.dll".
+
+  Copying file from "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.dll" to "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.dll".
+  Copying file from "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.dll" to "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.dll".
+
+  Copying file from "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\com.unity.textmeshpro\3.0.6\TextMeshPro.dll" to "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\TextMeshPro.dll".
+
+  Copying file from "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.dll" to "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.dll".
+
+  Copying file from "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\Vendor\UnityEngine.dll" to "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.dll".
+
+  Copying file from "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\com.unity.ui\1.2.1\UnityEngine.UI.dll" to "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UI.dll".
+
+  Copying file from "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\Bridge.Core.17.9.42-luna\lib\net40\Bridge.xml" to "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.xml".
+
+  Copying file from "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\com.unity.urp\7.6\UnityEngine.UniversalRenderPipeline.dll" to "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityEngine.UniversalRenderPipeline.dll".
+
+  Copying file from "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\Bridge.Html5.17.9.0\lib\net40\Bridge.Html5.xml" to "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.Html5.xml".
+
+  Copying file from "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\Bridge.WebGL.1.22.0\lib\net40\Bridge.WebGL.xml" to "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Bridge.WebGL.xml".
+
+  Copying file from "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\Bridge.Newtonsoft.Json.1.16.0\lib\net40\Newtonsoft.Json.xml" to "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Newtonsoft.Json.xml".
+
+  Copying file from "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\Retyped.Core.1.6.6733\lib\net40\Retyped.Core.xml" to "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.Core.xml".
+
+  Copying file from "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\Retyped.dom.2.8.6733\lib\net40\Retyped.dom.xml" to "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.dom.xml".
+  Copying file from "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\Retyped.es5.2.8.6733\lib\net40\Retyped.es5.xml" to "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.es5.xml".
+
+  Copying file from "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\packages\Retyped.scripthost.2.8.6733\lib\net40\Retyped.scripthost.xml" to "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\Retyped.scripthost.xml".
+
+  Creating "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.Up2Date" because "AlwaysCreate" was specified.
+
+  Touching "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\Scripts.csproj.Up2Date".
+
+CopyFilesToOutputDirectory:
+  Copying file from "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.dll" to "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll".
+
+  Scripts -> C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.dll
+
+  Copying file from "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\obj\Debug\UnityScriptsCompiler.pdb" to "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\bin\Debug\UnityScriptsCompiler.pdb".
+
+BridgeNetCompilerTask:
+  Bridge started
+
+      To enable detailed logging, configure "logging" in bridge.json.
+      https://github.com/bridgedotnet/Bridge/wiki/global-configuration#logging
+
+  Bridge done
+
+Done Building Project "C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" (Rebuild target(s)).
+
+
+Build succeeded.
+
+
+
+"C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj" (Rebuild target) (1) ->
+(CoreCompile target) -> 
+  E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\_Game\NamHp\CarRotate.cs(7,40): warning CS0649: Field 'CarRotate.carTrans' is never assigned to, and will always have its default value null [C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\_Game\NamHp\CarRotate.cs(8,40): warning CS0649: Field 'CarRotate.garageNewTrans' is never assigned to, and will always have its default value null [C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+  E:\Project\My project test\LunaTemp\stage3\processed-scripts\Assets\_Game\NamHp\CarRotate.cs(16,21): warning CS0649: Field 'CarRotate._delta' is never assigned to, and will always have its default value [C:\Users\HLC_2021\Downloads\6.2.1\pipeline\templates\LunaCompiler\Scripts\Scripts.csproj]
+
+    3 Warning(s)
+    0 Error(s)
+
+
+Time Elapsed 00:00:07.38
+
+Source code compiled successfully!
+﻿
+[ error ] $﻿
+Diagnostics gathered successfully
+report@code:build 13309.98
+report@diagnostics:verify 0.38
+report@diagnostics:upload 3041.54
+report@code:stage 4776.81
+[ Stage3 ] Code compiled and bundled successfully.
+report@code:bundle 21460.77
+report@package:stage 1619.70
+[ Stage4 ] Target platform: develop
+[ Stage4 ] Package bundled successfully
+report@assets:stats 0.14

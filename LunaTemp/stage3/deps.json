@@ -1,0 +1,116 @@
+{
+  "ignores": [],
+  "groups": [
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/_Game/NamHp/CarRotate.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/_Game/NamHp/Example.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/Benchmark01_UGUI.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/Benchmark01.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/Benchmark02.cs",
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TextMeshProFloatingText.cs",
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TextMeshSpawner.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/Benchmark03.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/Benchmark04.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/CameraController.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/ChatController.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/DropdownSample.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/EnvMapAnimator.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/ObjectSpin.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/ShaderPropAnimator.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/SimpleScript.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/SkewTextExample.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TeleType.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TextConsoleSimulator.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TMP_DigitValidator.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TMP_ExampleScript_01.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TMP_FrameRateCounter.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TMP_PhoneNumberValidator.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TMP_TextEventCheck.cs",
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TMP_TextEventHandler.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TMP_TextInfoDebugTool.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TMP_TextSelector_A.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TMP_TextSelector_B.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TMP_UiFrameRateCounter.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/TMPro_InstructionOverlay.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/VertexColorCycler.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/VertexJitter.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/VertexShakeA.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/VertexShakeB.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/VertexZoom.cs"
+    ],
+    [
+      "E:/Project/My project test/LunaTemp/stage3/processed-scripts/Assets/TextMesh Pro/Examples \u0026 Extras/Scripts/WarpTextExample.cs"
+    ],
+    [
+      "C:/Users/HLC_2021/Downloads/6.2.1/pipeline/templates/LunaCompiler/Scripts/Properties/AssemblyInfo.cs"
+    ],
+    [
+      "C:/Users/HLC_2021/Downloads/6.2.1/pipeline/templates/LunaCompiler/Scripts/Sources/OtherDummyScript.cs"
+    ],
+    [
+      "C:/Users/HLC_2021/Downloads/6.2.1/pipeline/templates/LunaCompiler/Scripts/obj/Debug/.NETFramework,Version=v4.7.AssemblyAttributes.cs"
+    ]
+  ]
+}
